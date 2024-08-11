@@ -1,6 +1,6 @@
 # Klipper Gcode-Buttons
 
-The Klipper Gcode buttons offer an innovative control option specially developed to improve operation and status display
+The Klipper Gcode-Buttons offer an innovative control option specially developed to improve operation and status display
 in 3D printing and automation systems. This solution supports ten hardware buttons, each equipped with a NeoPixel LED.
 These buttons allow execution of gcodes directly while providing visual feedback on the current status via the
 integrated NeoPixel LEDs.
