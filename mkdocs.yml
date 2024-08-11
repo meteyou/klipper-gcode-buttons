@@ -1,1 +1,46 @@
-site_name: My Docs
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Klipper Gcode-Buttons
+site_url: https://gcode-buttons.meteyou.wtf
+
+# add some social media buttons to the footer
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/meteyou
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@meteyou
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/meteyou
+
+# add copyright to the footer
+copyright: |
+  &copy; 2024 <a href="https://github.com/meteyou"  target="_blank" rel="noopener">Stefan Dej (meteyou)</a>
+
+# add repo to mkdocs
+repo_name: meteyou/klipper-gcode-buttons
+repo_url: https://github.com/meteyou/klipper-gcode-buttons
+
+# theme settings
+theme:
+  name: material
+  language: en
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
