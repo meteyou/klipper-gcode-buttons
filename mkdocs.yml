@@ -44,3 +44,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Hardware:
+    - Communication-Board: hardware/communication-board.md
+    - Button Cherry-MX: hardware/button-cherry-mx.md
+    - Button Romer-g: hardware/button-romer-g.md
