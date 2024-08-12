@@ -21,6 +21,10 @@ copyright: |
 repo_name: meteyou/klipper-gcode-buttons
 repo_url: https://github.com/meteyou/klipper-gcode-buttons
 
+# add markdown extensions
+markdown_extensions:
+  - attr_list # add support for attribute lists for blank target links
+
 # theme settings
 theme:
   name: material
