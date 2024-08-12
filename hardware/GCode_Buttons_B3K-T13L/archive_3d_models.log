@@ -1,0 +1,28 @@
+07-10 21:33:03 com_github_bouni_kicad-jlcpcb-tools.store 207:Part JP5 does not exist in the database and will be created from the board.
+07-10 21:33:03 com_github_bouni_kicad-jlcpcb-tools.store 207:Part R1 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part JP2 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part JP1 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part R2 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part D1 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part C1 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part JP3 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part J1 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part J2 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part JP4 does not exist in the database and will be created from the board.
+07-10 21:33:04 com_github_bouni_kicad-jlcpcb-tools.store 207:Part SW1 does not exist in the database and will be created from the board.
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Top layer
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Silk top
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Mask top
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Paste top
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Inner layer 1
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Inner layer 2
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Bottom layer
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Silk top
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Mask bottom
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Paste bottom
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted Edges
+07-10 21:33:13 com_github_bouni_kicad-jlcpcb-tools.fabrication 198:Successfully plotted V score cut
+07-10 21:33:14 com_github_bouni_kicad-jlcpcb-tools.fabrication 216:Finished generating Excellon files
+07-10 21:33:14 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Finished generating ZIP file
+07-10 21:33:14 com_github_bouni_kicad-jlcpcb-tools.fabrication 257:Finished generating POS file
+07-10 21:33:14 com_github_bouni_kicad-jlcpcb-tools.fabrication 269:Finished generating BOM file

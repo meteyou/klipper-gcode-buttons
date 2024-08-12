@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "Library_B3K-T13L")(type "KiCad")(uri "${KIPRJMOD}/Library_B3K-T13L.pretty")(options "")(descr ""))
+)
