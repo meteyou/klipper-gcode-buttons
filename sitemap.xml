@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gcode-buttons.meteyou.wtf/</loc>
+         <lastmod>2024-08-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gcode-buttons.meteyou.wtf/hardware/button-boards/</loc>
+         <lastmod>2024-08-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gcode-buttons.meteyou.wtf/hardware/communication-board/</loc>
+         <lastmod>2024-08-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
