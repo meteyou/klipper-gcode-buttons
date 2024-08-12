@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Klipper Gcode-Buttons
 
 The Klipper Gcode-Buttons offer an innovative control option specially developed to improve operation and status display
