@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "E:/!Entwicklung/Mete/GCode_Buttom/Library.pretty")(options "")(descr ""))
+  (lib (name "Library_GCode_MCU")(type "KiCad")(uri "${KIPRJMOD}/Library_GCode_MCU.pretty")(options "")(descr ""))
+)
