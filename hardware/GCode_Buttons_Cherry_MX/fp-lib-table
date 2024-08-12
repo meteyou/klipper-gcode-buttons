@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "Library_Cherry_MX")(type "KiCad")(uri "E:/!Entwicklung/Mete/GCode_Button/GCode_Buttons_B3K-T13L/Library_Cherry_MX.pretty")(options "")(descr ""))
+)
